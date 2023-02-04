@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: rgb(12, 18, 29);
+  color: white;
+}
+.input {
+  background-color: rgb(34, 43, 59);
+  width: 350px;
+  border: 1px solid rgb(34, 43, 59);
+  border-radius: 8px;
+  height: 45px;
+  margin-top: 50px;
+  margin: 40pxpx;
+}
+input[type="text"],
+textarea {
+  color: white;
+}
+::placeholder {
+  color: white;
+}
+
+.condition {
+  margin-top: 40px;
+}
+.location {
+  margin-left: 55px;
+}
